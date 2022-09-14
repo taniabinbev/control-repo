@@ -1,5 +1,5 @@
 forge 'https://forge.puppet.com'
-
+mod 'puppetlabs-puppet_agent', '4.12.1'
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
 #mod 'puppetlabs/inifile', '5.0.1'
